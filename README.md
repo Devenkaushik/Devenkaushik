@@ -31,8 +31,8 @@
 
 ### 📫 How to reach me:
 - **Email:** Devenkaushik16@gmail.com
-- **LinkedIn:** [Deven Kaushik](https://linkedin.com/in/deven-kaushik)
-
+- **LinkedIn:** [Deven Kaushik]([https://linkedin.com/in/deven-kaushik](https://www.linkedin.com/in/devenkaushik/))
+-
 ### 😄 Pronouns:
 - He/Him
 
